@@ -18,10 +18,9 @@ To run this project, you need to have Python installed on your system. The appli
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/fatimxox/Maze_Solver_with_A_asterisk_Search_Algorithm.git
+    cd Maze_Solver_with_A_asterisk_Search_Algorithm
     ```
-    *(Replace `YOUR_USERNAME/YOUR_REPOSITORY_NAME` with your actual GitHub repository path)*
 
 2.  **Install dependencies:** Make sure you have met the [Prerequisites](#prerequisites) and installed the required Python libraries as shown above.
 
